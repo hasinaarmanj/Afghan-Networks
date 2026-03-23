@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "appName": "BudgetX",
+    "packageName": "ha.budget.x",
+    "iconUrl": "https://yourcdn.com/icons/budgetx.png",
+    "subtitle": "Try our advanced budget & expense app!",
+    "ctaText": "INSTALL",
+    "isAd": true,
+    "refreshInterval": 45,
+    "startDate": "2026-01-01T00:00:00Z",
+    "endDate": "2027-01-01T23:59:59Z"
+  },
+  {
+    "id": "2",
+    "appName": "Third Party App 1",
+    "packageName": "com.thirdparty.app1",
+    "iconUrl": "https://cdn.example.com/icons/app1.png",
+    "subtitle": "Discover amazing new features!",
+    "ctaText": "INSTALL",
+    "isAd": true,
+    "refreshInterval": 60,
+    "startDate": "2026-03-22T00:00:00Z",
+    "endDate": "2026-05-01T23:59:59Z"
+  },
+  {
+    "id": "3",
+    "appName": "Third Party App 2",
+    "packageName": "com.thirdparty.app2",
+    "iconUrl": "https://cdn.example.com/icons/app2.png",
+    "subtitle": "Try this fantastic new app now!",
+    "ctaText": "INSTALL",
+    "isAd": true,
+    "refreshInterval": 50,
+    "startDate": "2026-03-25T00:00:00Z",
+    "endDate": "2026-06-01T23:59:59Z"
+  }
+]
