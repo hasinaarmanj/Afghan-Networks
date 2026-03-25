@@ -8,6 +8,7 @@
     "ctaText": "",
     "isAd": true,
     "refreshInterval": 120,
+    "showProbability": 80,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
   },
