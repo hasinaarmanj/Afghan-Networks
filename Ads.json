@@ -34,5 +34,17 @@
     "refreshInterval": 50,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
+  },
+   {
+    "id": "4",
+    "appName": "Your Ads Here",
+    "packageName": "+93789500611",
+    "iconUrl": "",
+    "subtitle": "",
+    "ctaText": "",
+    "isAd": true,
+    "refreshInterval": 50,
+    "startDate": "2026-03-25T00:00:00Z",
+    "endDate": "2026-06-01T23:59:59Z"
   }
 ]
