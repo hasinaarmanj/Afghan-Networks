@@ -7,8 +7,8 @@
     "subtitle": "",
     "ctaText": "",
     "isAd": true,
-    "refreshInterval": 120,
-    "showProbability": 80,
+    "refreshInterval": 10,
+    "showProbability": 10,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
   },
@@ -21,6 +21,7 @@
     "ctaText": "INSTALL",
     "isAd": true,
     "refreshInterval": 45,
+    "showProbability": 80,
     "startDate": "2026-01-01T00:00:00Z",
     "endDate": "2027-01-01T23:59:59Z"
   },
@@ -33,6 +34,7 @@
     "ctaText": "Instal",
     "isAd": true,
     "refreshInterval": 60,
+    "showProbability": 30,
     "startDate": "2026-03-22T00:00:00Z",
     "endDate": "2026-05-01T23:59:59Z"
   },
@@ -45,6 +47,7 @@
     "ctaText": "Install",
     "isAd": true,
     "refreshInterval": 50,
+    "showProbability": 15,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
   },
@@ -57,6 +60,7 @@
     "ctaText": "Visit",
     "isAd": true,
     "refreshInterval": 50,
+    "showProbability": 20,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
   }
