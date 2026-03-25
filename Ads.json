@@ -1,5 +1,17 @@
 [
   {
+    "id": "0",
+    "appName": "",
+    "packageName": "+93789500611",
+    "iconUrl": "https://i.ibb.co/XkZtnN5Q/Untitled-2-copy.png",
+    "subtitle": "",
+    "ctaText": "",
+    "isAd": true,
+    "refreshInterval": 120,
+    "startDate": "2026-03-25T00:00:00Z",
+    "endDate": "2026-06-01T23:59:59Z"
+  },
+  {
     "id": "1",
     "appName": "BudgetX",
     "packageName": "ha.budget.x",
@@ -32,18 +44,6 @@
     "ctaText": "Install",
     "isAd": true,
     "refreshInterval": 50,
-    "startDate": "2026-03-25T00:00:00Z",
-    "endDate": "2026-06-01T23:59:59Z"
-  },
-   {
-    "id": "4",
-    "appName": "",
-    "packageName": "+93789500611",
-    "iconUrl": "https://i.ibb.co/XkZtnN5Q/Untitled-2-copy.png",
-    "subtitle": "",
-    "ctaText": "",
-    "isAd": true,
-    "refreshInterval": 120,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
   }
