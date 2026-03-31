@@ -54,7 +54,7 @@
     "iconUrl": "https://i.ibb.co/xSMpmsGK/Wow-gif.gif",
     "subtitle": "",
     "ctaText": "",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 45,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
