@@ -18,7 +18,7 @@
     "iconUrl": "https://images.iimg.live/images/ultimate-photography-5850.webp",
     "subtitle": "Control your finances with powerful tracking, goals, and insights.",
     "ctaText": "INSTALL",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-01-01T00:00:00Z",
     "endDate": "2027-01-01T23:59:59Z"
@@ -30,7 +30,7 @@
     "iconUrl": "https://ibb.co/mVPb5pN9",
     "subtitle": "Fast & secure QR Scanner & Generator. Scan QR codes, barcodes, and create codes for links, Wi-Fi, contacts, and more — all offline!",
     "ctaText": "Instal",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-03-22T00:00:00Z",
     "endDate": "2026-05-01T23:59:59Z"
@@ -42,7 +42,7 @@
     "iconUrl": "https://ibb.co/wh2zh7yq",
     "subtitle": "QR Scanner & QR Code Generator is a fast, secure, and easy-to-use app for scanning and creating QR codes and barcodes on Android. Scan QR codes, barcodes, and Data Matrix codes instantly, or generate QR codes for links, text, Wi-Fi, contacts, emails, and more — all offline to protect your privacy.",
     "ctaText": "Install",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
