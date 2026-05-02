@@ -4,31 +4,360 @@
     "Roshan_1GB": {
       "en": {
         "FT": "1GB Package",
-        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 195 Afghani.\nTo Active Send (AM1) & to Deactivate Send (UAM1) to (555)"
+        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 95 Afghani.\nPress the Green button to Active &amp; Press Red Button to Deactivate it.\nTo Active Dial (*477*110*1#) &amp; to Check Balance Dial (*477*110*4#)."
       },
       "fa": {
-        "FT": "بسته 1GB",
-        "ST": "مشتری عزیز! با این بسته شما می‌توانید 1GB اینترنت برای 30 روز در بدل 295 افغانی دریافت کنید.\nبرای فعال سازی (AM1) و برای غیرفعال سازی (UAM1) به (555) ارسال کنید"
+        "FT": "بسته ۱ جی بی",
+        "ST": "مشتری عزيز! با فعال نمودن اين بسته شما ميتواند که در بدل ۹۵ افغانی ۱ جی بی انترنت را به مدت ۳۰ روز بدست آوريد. برای فعال نمودن کود (*477*110*1#) را دايل برای دیدن حساب خويش (*477*110*4#) را دايل نمائيد."
       },
       "ps": {
-        "FT": "د 1GB بسته",
-        "ST": "ګرانه پېرېدونکي! د دې کڅوړې سره تاسو کولی شئ 1GB انټرنېټ د 30 ورځو لپاره د 395 افغانیو په بدل کې ترلاسه کړئ.\nد فعالولو لپاره (AM1) او د بندولو لپاره (UAM1) (555) ته واستوئ"
+        "FT": "۱ جې بي کڅوړه",
+        "ST": "ګرانه ګټه اخيستونکيه٬ د دې کڅوړې په کارونې سره تاسو کولای شئ، د ۹۵ افغانيو په بدل کې د ۳۰ ورځو لپاره ۱ جې بي انټرنېټ لاس ته راوړئ.\n د فعالولو لپاره (*477*110*1#) او د حساب کتلو لپاره (*477*110*4#) ډايل کړي."
       }
     },
-
     "Roshan_1_2GB": {
       "en": {
         "FT": "1.2GB Package",
         "ST": "Dear Customer! with this Package you can get 1.2GB of Internet for 30 days in exchange for 110 Afghani.\nTo Active Send (1GB) & to Deactivate Send (U1GB) to (555)"
       },
-      "fa": {
-        "FT": "بسته 1.2GB",
-        "ST": "مشتری عزیز! با این بسته شما می‌توانید 1.2GB اینترنت برای 30 روز در بدل 110 افغانی دریافت کنید.\nبرای فعال سازی (1GB) و برای غیرفعال سازی (U1GB) به (555) ارسال کنید"
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_1_5GB": {
+      "en": {
+        "FT": "1.5GB Package",
+        "ST": "Dear Customer! with this Package you can get 1.5GB of Internet for 30 days in exchange for 135 Afghani.\nTo Active Send (S135) & to Deactivate Send (US135) to (555)"
       },
-      "ps": {
-        "FT": "د 1.2GB بسته",
-        "ST": "ګرانه پېرېدونکي! د دې کڅوړې سره تاسو کولی شئ 1.2GB انټرنېټ د 30 ورځو لپاره د 110 افغانیو په بدل کې ترلاسه کړئ.\nد فعالولو لپاره (1GB) او د بندولو لپاره (U1GB) (555) ته واستوئ"
-      }
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_2GB": {
+      "en": {
+        "FT": "2GB Package",
+        "ST": "Dear Customer! with this Package you can get 2GB of Internet for 30 days in exchange for 190 Afghani.\nTo Active Send (AM2) & to Deactivate Send (UAM2) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_2_4GB": {
+      "en": {
+        "FT": "2.4GB Package",
+        "ST": "Dear Customer! with this Package you can get 2.4GB of Internet for 30 days in exchange for 220 Afghani.\nTo Active Send (M1) & to Deactivate Send (UM1) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_3GB": {
+      "en": {
+        "FT": "3GB Package",
+        "ST": "Dear Customer! with this Package you can get 3GB of Internet for 30 days in exchange for 285 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (AM3) & to Deactivate Send (UAM3) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_3_6GB": {
+      "en": {
+        "FT": "3.6GB Package",
+        "ST": "Dear Customer! with this Package you can get 3.6GB of Internet for 30 days in exchange for 330 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (M2) & to Deactivate Send (UM2) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_4GB": {
+      "en": {
+        "FT": "4GB Package",
+        "ST": "Dear Customer! with this Package you can get 4GB of Internet for 30 days in exchange for 380 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (AM4) & to Deactivate Send (UAM4) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_4_9GB": {
+      "en": {
+        "FT": "4.9GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 4.9GB of Internet for 30 days in exchange for 440 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (SM3) & to Deactivate Send (DSM3) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_5GB": {
+      "en": {
+        "FT": "5GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 5GB of Internet for 30 days in exchange for 600 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (M5) & to Deactivate Send (UM5) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_7GB": {
+      "en": {
+        "FT": "7GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 7GB of Internet & 700mb free Facebook for 30 days in exchange for 800 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (M7) & to Deactivate Send (UM7) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_10GB": {
+      "en": {
+        "FT": "10GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 10GB of Internet for 30 days in exchange for 1099 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (M10) & to Deactivate Send (UM10) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_15GB": {
+      "en": {
+        "FT": "15GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 15GB of Internet for 30 days in exchange for 1499 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (M15) & to Deactivate Send (UM15) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_16GB_New_Sadat": {
+      "en": {
+        "FT": "16GB Internet Package (New Sadat)",
+        "ST": "Dear Customer! with this Package you can get 16GB of Internet for 30 days in exchange for 900 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (SM9) & to Deactivate Send (DSM9) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_20GB": {
+      "en": {
+        "FT": "20GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 20GB of Internet for 30 days in exchange for 1599 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (U20GB) & to Deactivate Send (20GB) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_30GB": {
+      "en": {
+        "FT": "30GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 30GB of Internet for 30 days in exchange for 1799 Afghani.\nPress the Green button to Active & Press Red Button to Deactivate it.\nTo Active Send (30GB) & to Deactivate Send (U30GB) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_40GB": {
+      "en": {
+        "FT": "40GB Internet Package",
+        "ST": "Dear Customer! with this Package you can get 40GB of Internet for 30 days in exchange for 1999 Afghani.\nTo Active Send (40GB) & to Deactivate Send (U40GB) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_250MB_FB": {
+      "en": {
+        "FT": "250MB Facebook Package",
+        "ST": "Dear Customer! with this Package you can get 250MB of Facebook for 30 days in exchange for 45 Afghani.\nTo Active Send (FB50) & to Deactivate Send (UFB50) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_300MB_FB": {
+      "en": {
+        "FT": "300MB Facebook Package",
+        "ST": "Dear Customer! with this Package you can get 300MB of Facebook for 30 days in exchange for 60 Afghani.\nTo Active Send (FB A) & to Deactivate Send (FB D) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_900MB": {
+      "en": {
+        "FT": "900MB Package",
+        "ST": "Dear Customer! with this Package you can get 900MB For Social Media Site for 30 days in exchange for 90 Afghani.\nTo Active Send (S100) & to Deactivate Send (U100) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_512MB_Nightly_23": {
+      "en": {
+        "FT": "512MB 1Night Package",
+        "ST": "Dear Customer! with this Package you can get 512MB of Internet for 1 Night in exchange for 25 Afghani.\nValid from 11:00PM to 6:00PM\nTo Active Send (OP) & to Deactivate Send (UOP) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_1GB_Night": {
+      "en": {
+        "FT": "1GB Nightly Package",
+        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 99 Afghani.\nValid from 11:00PM to 6:00PM\nTo Active Send (A99) & to Deactivate Send (U99) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_infinite_Night": {
+      "en": {
+        "FT": "Infinite Nightly Package",
+        "ST": "Dear Customer! with this Package you can get Infinite of Internet for 1 Night in exchange for 15 Afghani.\nValid from 11:00PM to 6:00PM\nTo Active Send (N15) & to Deactivate Send (UN15) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_512MB_Weekly": {
+      "en": {
+        "FT": "500MB Weekly Package",
+        "ST": "Dear Customer! with this Package you can get 512MB of Internet for 7 Days in exchange for 75 Afghani.\nTo Active Send (W512) & to Deactivate Send (UW512) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_1GB__Weekly": {
+      "en": {
+        "FT": "1GB Weekly Package",
+        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 7 Days in exchange for 80 Afghani.\nTo Active Send (W1) & to Deactivate Send (UW1) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_300MB_Weekly": {
+      "en": {
+        "FT": "300MB Weekly Package",
+        "ST": "Dear Customer! with this Package you can get 300MB of Internet for 7 Days in exchange for 45 Afghani.\nTo Active Send (W45) & to Deactivate Send (UW45) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_250MB_Weekly": {
+      "en": {
+        "FT": "250MB Facebook Weekly Package",
+        "ST": "Dear Customer! with this Package you can get 250MB of Internet for 7 Days in exchange for 25 Afghani.\nTo Active Send (F25) & to Deactivate Send (U25) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_200MB_Daily": {
+      "en": {
+        "FT": "200MB Daily Package",
+        "ST": "Dear Customer! with this Package you can get 200MB of Internet for 1 Day in exchange for 30 Afghani.\nTo Active Send (D200) & to Deactivate Send (UD200) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_100MB_Daily": {
+      "en": {
+        "FT": "100MB Daily Package",
+        "ST": "Dear Customer! with this Package you can get 100MB of Internet for 1 Day in exchange for 6 Afghani.\nTo Active Send (DFB) & to Deactivate Send (UDFB) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_200MB_Social_Daily": {
+      "en": {
+        "FT": "200MB Social Daily Package",
+        "ST": "Dear Customer! with this Package you can get 200MB of Internet for 1 Day in exchange for 15 Afghani.\nTo Active Send (S6) & to Deactivate Send (US6) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_infinite_1HR": {
+      "en": {
+        "FT": "1 Hour Unlimited Package",
+        "ST": "Dear Customer! with this Package you can get Unlimited of Internet for 1 Hour in exchange for 10 Afghani.\nTo Active Send (1HR) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_1HR_Internet_package": {
+      "en": {
+        "FT": "This Package is Activating for 1 time everyday",
+        "ST": null
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_30000_SMS": {
+      "en": {
+        "FT": "30000 SMS",
+        "ST": "Dear Customer! with this Package you can get 30000 SMS for 1 Month in exchange for 70 Afghani.\nTo Active Send (ON1) & to Deactivate Send (OFF1) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_3000_SMS": {
+      "en": {
+        "FT": "3000 SMS",
+        "ST": "Dear Customer! with this Package you can get 3000 SMS for 7 Days in exchange for 25 Afghani.\nTo Active Send (ONW) & to Deactivate Send (OFFW) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_1000_SMS": {
+      "en": {
+        "FT": "1000 SMS",
+        "ST": "Dear Customer! with this Package you can get 1000 SMS for 1 Day in exchange for 25 Afghani.\nTo Active Send (OND) & to Deactivate Send (OFFD) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Small_Samimi": {
+      "en": {
+        "FT": "Small Samimi Package",
+        "ST": "Dear Customer! with this Package you can get 400 Minutes for 30 Days in exchange for 120 Afghani.\nTo Active Send (120) & to Deactivate Send (D120) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Big_Samimi": {
+      "en": {
+        "FT": "Big Samimi Package",
+        "ST": "Dear Customer! with this Package you can get 1000 Minutes for 30 Days in exchange for 200 Afghani.\nTo Active Send (220) & to Deactivate Send (D220) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Small_Watani": {
+      "en": {
+        "FT": "Small Watani Package",
+        "ST": "Dear Customer! with this Package you can get 123 Minutes for 30 Days in exchange for 225 Afghani.\nTo Active Send (225) & to Deactivate Send (D225) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Big_Watani": {
+      "en": {
+        "FT": "Big Watani Package",
+        "ST": "Dear Customer! with this Package you can get 225 Minutes for 30 Days in exchange for 430 Afghani.\nTo Active Send (430) & to Deactivate Send (D430) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_5000_Call": {
+      "en": {
+        "FT": "5000 Minutes & Unlimited SMS",
+        "ST": "Dear Customer! with this Package you can get 5000 Minutes & Unlimited SMS for 30 Days in exchange for 499 Afghani.\nTo Active Send (499) & to Deactivate Send (D499) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Nightly_Call": {
+      "en": {
+        "FT": "128 Minutes Nightly",
+        "ST": "Dear Customer! with this Package you can get 128 Minutes for 1 Night in exchange for 15 Afghani.\nValid from 10:00PM to 6:00AM\nTo Active Send (15) & to Deactivate Send (15D) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Weekly_Call": {
+      "en": {
+        "FT": "383 Minutes Weekly",
+        "ST": "Dear Customer! with this Package you can get 383 Minutes for 7 Days in exchange for 90 Afghani.\nTo Active Send (90) & to Deactivate Send (D90) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Daily_128M_Call": {
+      "en": {
+        "FT": "150 Minutes Daily",
+        "ST": "Dear Customer! with this Package you can get 150 Minutes for 1 Day in exchange for 30 Afghani.\nValid for Yaran and Aali SIM Cards\nTo Active Send (35) & to Deactivate Send (D35) to (555)"
+      },
+      "fa": null,
+      "ps": null
+    },
+    "Roshan_Daily_64M_Call": {
+      "en": {
+        "FT": "64 Minutes Daily",
+        "ST": "Dear Customer! with this Package you can get 130 Minutes for 1 Day in exchange for 30 Afghani.\nValid for Yaran, Ali and Sadaat SIM Cards\nTo Active Send (41) & to Deactivate Send (D41) to (555)"
+      },
+      "fa": null,
+      "ps": null
     }
   }
 }
