@@ -1,1 +1,34 @@
+{
+  "version": 1,
+  "awcc_packages": {
+    "Roshan_1GB": {
+      "en": {
+        "FT": "1GB Package",
+        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 195 Afghani.\nTo Active Send (AM1) & to Deactivate Send (UAM1) to (555)"
+      },
+      "fa": {
+        "FT": "بسته 1GB",
+        "ST": "مشتری عزیز! با این بسته شما می‌توانید 1GB اینترنت برای 30 روز در بدل 295 افغانی دریافت کنید.\nبرای فعال سازی (AM1) و برای غیرفعال سازی (UAM1) به (555) ارسال کنید"
+      },
+      "ps": {
+        "FT": "د 1GB بسته",
+        "ST": "ګرانه پېرېدونکي! د دې کڅوړې سره تاسو کولی شئ 1GB انټرنېټ د 30 ورځو لپاره د 395 افغانیو په بدل کې ترلاسه کړئ.\nد فعالولو لپاره (AM1) او د بندولو لپاره (UAM1) (555) ته واستوئ"
+      }
+    },
 
+    "Roshan_1_2GB": {
+      "en": {
+        "FT": "1.2GB Package",
+        "ST": "Dear Customer! with this Package you can get 1.2GB of Internet for 30 days in exchange for 110 Afghani.\nTo Active Send (1GB) & to Deactivate Send (U1GB) to (555)"
+      },
+      "fa": {
+        "FT": "بسته 1.2GB",
+        "ST": "مشتری عزیز! با این بسته شما می‌توانید 1.2GB اینترنت برای 30 روز در بدل 110 افغانی دریافت کنید.\nبرای فعال سازی (1GB) و برای غیرفعال سازی (U1GB) به (555) ارسال کنید"
+      },
+      "ps": {
+        "FT": "د 1.2GB بسته",
+        "ST": "ګرانه پېرېدونکي! د دې کڅوړې سره تاسو کولی شئ 1.2GB انټرنېټ د 30 ورځو لپاره د 110 افغانیو په بدل کې ترلاسه کړئ.\nد فعالولو لپاره (1GB) او د بندولو لپاره (U1GB) (555) ته واستوئ"
+      }
+    }
+  }
+}
