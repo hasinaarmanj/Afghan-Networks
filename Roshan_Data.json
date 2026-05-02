@@ -4,7 +4,7 @@
     "Roshan_1GB": {
       "en": {
         "FT": "1GB Package",
-        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 195 Afghani.\nTo Active Send (AM1) &amp; to Deactivate Send (UAM1) to (555)"
+        "ST": "Dear Customer! with this Package you can get 1GB of Internet for 30 days in exchange for 95 Afghani.\nTo Active Send (AM1) &amp; to Deactivate Send (UAM1) to (555)"
       },
       "fa": {
         "FT": "بسته ۱ جی بی",
@@ -15,14 +15,32 @@
         "ST": "ګرانه ګټه اخيستونکيه٬ د دې کڅوړې په کارونې سره تاسو کولای شئ، د ۹۵ افغانيو په بدل کې د ۳۰ ورځو لپاره ۱ جې بي انټرنېټ لاس ته راوړئ.\n د فعالولو لپاره (AM1) او د غېر فعالولو (UAM1) (555) واستوئ."
       }
     },
+  
     "Roshan_1_2GB": {
       "en": {
         "FT": "1.2GB Package",
-        "ST": "Dear Customer! with this Package you can get 1.2GB of Internet for 30 days in exchange for 110 Afghani.\nTo Active Send (1GB) & to Deactivate Send (U1GB) to (555)"
+        "ST": "Dear Customer! with this Package you can get 1.2GB of Internet for 30 days in exchange for 110 Afghani.\nTo Active Send (1GB) &amp; to Deactivate Send (U1GB) to (555)."
       },
-      "fa": null,
-      "ps": null
+      "fa": {
+        "FT": "بسته ۱.۲ جی بی",
+        "ST": "مشتری عزيز! با فعال نمودن اين بسته شما ميتواند که در بدل ۱۱۰ افغانی ۱.۲ جی بی انترنت را به مدت ۳۰ روز بدست آوريد.\n برای فعال سازی (1GB) برای غير فعال سازی (U1GB) را به شماره (555) ارسال نمايد."
+      },
+      "ps": {
+        "FT": "۱.۲ جې بي کڅوړه",
+        "ST": "ګرانه ګټه اخيستونکيه٬ د دې کڅوړې په کارونې سره تاسو کولای شئ، د ۱۱۰ افغانيو په بدل کې د ۳۰ ورځو لپاره ۱.۲ جې بي انټرنېټ لاس ته راوړئ.\n د فعالولو لپاره (1GB) او د غېر فعالولو (U1GB) (555) واستوئ."
+      }
     },
+
+
+
+
+
+
+
+
+
+
+    
     "Roshan_1_5GB": {
       "en": {
         "FT": "1.5GB Package",
