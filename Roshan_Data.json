@@ -1,4 +1,4 @@
-{
+.{
   "version": 1,
   "roshan_packages": {
     "Roshan_1GB": {
@@ -71,7 +71,7 @@
     "Roshan_2_4GB": {
       "en": {
         "FT": "2.4GB Package",
-        "ST": "Dear Customer! with this Package you can get 2.4GB of Internet for 30 days in exchange for 220 Afghani.\nTo Active Send (M1) & to Deactivate Send (UM1) to (555)"
+        "ST": "Dear Customer! with this Package you can get 2.4GB of Internet for 30 days in exchange for 220 Afghani.\nTo Active Send (M1) &amp; to Deactivate Send (UM1) to (555)."
       },
       "fa": null,
       "ps": null
