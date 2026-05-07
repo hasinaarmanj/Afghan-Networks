@@ -43,22 +43,31 @@
         "ST": "ګرانه ګټه اخيستونکيه٬ د دې کڅوړې په کارونې سره تاسو کولای شئ، د ۱۳۵ افغانيو په بدل کې د ۳۰ ورځو لپاره ۱.۵ جې بي انټرنېټ لاس ته راوړئ.\n د فعالولو لپاره (S135) او د غېر فعالولو (US135) (555) واستوئ."
       }
     },
-
-
-
-
-
-
-    
-    
     "Roshan_2GB": {
       "en": {
         "FT": "2GB Package",
-        "ST": "Dear Customer! with this Package you can get 2GB of Internet for 30 days in exchange for 190 Afghani.\nTo Active Send (AM2) & to Deactivate Send (UAM2) to (555)"
+        "ST": "Dear Customer! with this Package you can get 2GB of Internet for 30 days in exchange for 190 Afghani.\nTo Active Send (AM2) &amp; to Deactivate Send (UAM2) to (555)."
       },
-      "fa": null,
-      "ps": null
+      "fa": {
+        "FT": "بسته ۲ جی بی",
+        "ST": "مشتری عزيز! با فعال نمودن اين بسته شما ميتواند که در بدل ۱۹۰ افغانی ۲ جی بی انترنت را به مدت ۳۰ روز بدست آوريد.\n برای فعال سازی (AM2) برای غير فعال سازی (UAM2) را به شماره (555) ارسال نمايد."
+      },
+      "ps": {
+        "FT": "۲ جې بي کڅوړه",
+        "ST": "ګرانه ګټه اخيستونکيه٬ د دې کڅوړې په کارونې سره تاسو کولای شئ، د ۱۹۰ افغانيو په بدل کې د ۳۰ ورځو لپاره ۲ جې بې انټرنټ لاس ته راوړي.\n د فعالولو لپاره (AM2) او د غېر فعالولو (UAM2) (555) واستوئ."
+      }
     },
+
+
+
+    
+
+
+
+
+
+
+    
     "Roshan_2_4GB": {
       "en": {
         "FT": "2.4GB Package",
