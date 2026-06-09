@@ -58,5 +58,16 @@
     "refreshInterval": 45,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2026-06-01T23:59:59Z"
+  },
+  {
+    "id": "video_ad_1",
+    "appName": "My Cool App",
+    "subtitle": "Best app for daily tasks and management.",
+    "iconUrl": "https://i.ibb.co/example/icon.png",
+    "packageName": "com.example.app",
+    "videoUrl": "https://www.youtube.com/watch?v=LjZxeSne67E",
+    "ctaText": "INSTALL",
+    "isAd": true,
+    "enabled": true
   }
 ]
