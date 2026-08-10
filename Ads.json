@@ -60,13 +60,21 @@
     "endDate": "2030-12-31T23:59:59Z"
   },
    {
-    "id": "yt_ad_001",
-    "appName": "Amazing Content",
-    "youtubeUrl": "https://www.youtube.com/watch?v=oYT49EULzn8",
-    "iconUrl": "", 
-    "subtitle": "Click to watch this amazing video on YouTube!",
-    "ctaText": "Watch Now",
-    "isAd": true,
-    "enabled": true
-  }
+  "id": "yt_ad_001",
+  "appName": "Amazing Content",
+  "youtubeUrl": "https://www.youtube.com/watch?v=oYT49EULzn8",
+  "iconUrl": "", 
+  "subtitle": "This plays natively now!",
+  "isAd": true,
+  "enabled": true
+  },
+  {
+  "id": "yt_ad_002",
+  "appName": "Amazing Quran Karim",
+  "youtubeUrl": "https://www.youtube.com/watch?v=_VlSgHKTZU4",
+  "iconUrl": "", 
+  "subtitle": "This plays natively now!",
+  "isAd": true,
+  "enabled": true
+}
 ]
