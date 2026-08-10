@@ -58,5 +58,15 @@
     "refreshInterval": 45,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
+  },
+   {
+    "id": "yt_ad_001",
+    "appName": "Amazing Content",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oYT49EULzn8",
+    "iconUrl": "", 
+    "subtitle": "Click to watch this amazing video on YouTube!",
+    "ctaText": "Watch Now",
+    "isAd": true,
+    "enabled": true
   }
 ]
