@@ -6,7 +6,7 @@
     "iconUrl": "https://i.ibb.co/27xvqw3N/Untitled-2-copy.png",
     "subtitle": "",
     "ctaText": "",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 10,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
@@ -18,7 +18,7 @@
     "iconUrl": "https://images.iimg.live/images/ultimate-photography-5850.webp",
     "subtitle": "Control your finances with powerful tracking, goals, and insights.",
     "ctaText": "INSTALL",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-01-01T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
@@ -30,7 +30,7 @@
     "iconUrl": "https://ibb.co/mVPb5pN9",
     "subtitle": "Fast & secure QR Scanner & Generator. Scan QR codes, barcodes, and create codes for links, Wi-Fi, contacts, and more — all offline!",
     "ctaText": "Instal",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-03-22T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
@@ -42,7 +42,7 @@
     "iconUrl": "https://ibb.co/wh2zh7yq",
     "subtitle": "QR Scanner & QR Code Generator is a fast, secure, and easy-to-use app for scanning and creating QR codes and barcodes on Android. Scan QR codes, barcodes, and Data Matrix codes instantly, or generate QR codes for links, text, Wi-Fi, contacts, emails, and more — all offline to protect your privacy.",
     "ctaText": "Install",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 30,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
@@ -54,7 +54,7 @@
     "iconUrl": "https://i.ibb.co/27xvqw3N/Untitled-2-copy.png",
     "subtitle": "",
     "ctaText": "",
-    "isAd": true,
+    "isAd": false,
     "refreshInterval": 45,
     "startDate": "2026-03-25T00:00:00Z",
     "endDate": "2030-12-31T23:59:59Z"
@@ -65,7 +65,7 @@
   "youtubeUrl": "https://www.youtube.com/watch?v=oYT49EULzn8",
   "iconUrl": "", 
   "subtitle": "This plays natively now!",
-  "isAd": true,
+  "isAd": false,
   "enabled": true
   },
   {
@@ -74,7 +74,7 @@
   "youtubeUrl": "https://www.youtube.com/watch?v=_VlSgHKTZU4",
   "iconUrl": "", 
   "subtitle": "This plays natively now!",
-  "isAd": true,
+  "isAd": false,
   "enabled": true
 }
 ]
